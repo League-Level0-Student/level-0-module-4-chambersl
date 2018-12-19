@@ -1,4 +1,3 @@
-package doubles_and_booleans;
 
 import javax.swing.JOptionPane;
 
